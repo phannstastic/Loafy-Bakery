@@ -3,7 +3,7 @@
 Selamat datang di Loafy Bakery, sebuah aplikasi web Point of Sale (POS) dan etalase produk yang dirancang untuk toko roti. Sistem ini memungkinkan pelanggan untuk melihat produk dan melakukan pemesanan, sementara admin dapat mengelola seluruh aspek operasional mulai dari produk hingga verifikasi pesanan.
 ![Screenshot Loafy Bakery](deploy/deploy-website.png)
 
-**URL Website:** [Kunjungi Website](httphttp://loafybakery.infinityfreeapp.com)
+**URL Website:** [Kunjungi Website](https://loafybakery.infinityfreeapp.com)
 
 ---
 
