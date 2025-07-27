@@ -81,15 +81,15 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 ---
 
 ## 📂 Struktur Folder
-├── assets/         # Aset statis seperti gambar
-├── includes/       # Bagian kode yang digunakan berulang (header, footer)
-├── admin.php       # Halaman utama admin
-├── config.php      # File konfigurasi koneksi (diabaikan oleh .gitignore)
-├── index.php       # Halaman utama aplikasi
-├── keranjang.php   # Halaman keranjang belanja
-├── login.php       # Halaman login
-├── produk.php      # Halaman galeri produk
-└── loafy_bakery.sql  # File ekspor database
+* `assets/` - Aset statis seperti gambar.
+* `includes/` - Bagian kode yang digunakan berulang (header, footer).
+* `admin.php` - Halaman utama admin.
+* `config.php` - File konfigurasi koneksi (diabaikan oleh .gitignore).
+* `index.php` - Halaman utama aplikasi.
+* `keranjang.php` - Halaman keranjang belanja.
+* `login.php` - Halaman login.
+* `produk.php` - Halaman galeri produk.
+* `loafy_bakery.sql` - File ekspor database.
 
 ---
 
