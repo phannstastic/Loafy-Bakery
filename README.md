@@ -35,6 +35,11 @@ Selamat datang di Loafy Bakery, sebuah aplikasi web Point of Sale (POS) dan etal
 
 ---
 
+## ⚠️ Peringatan (Disclaimer)
+Perlu diketahui bahwa sistem otentikasi (login dan registrasi) pada versi ini belum dilengkapi dengan validasi input yang komprehensif di sisi server. Artinya, pengecekan untuk hal-hal seperti format email yang valid, kekuatan password, atau sanitasi input lainnya belum diimplementasikan.
+
+---
+
 ## 🚀 Instalasi & Konfigurasi Lokal
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal Anda:
