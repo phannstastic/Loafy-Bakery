@@ -99,3 +99,6 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 ---
 
 Dibuat dengan ❤️ oleh **Tim Mata Kanan**
+* **Muhammad Irfan Trinugroho**
+* **Ahmad Musthaqim**
+* **Rahmad Bima Syahputra**
