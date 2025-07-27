@@ -57,10 +57,7 @@ CREATE TABLE `pengguna` (
 --
 
 INSERT INTO `pengguna` (`id_pengguna`, `username`, `password`, `email`, `tlp_pengguna`, `total_pesanan`, `role`) VALUES
-(7, 'admin', '$2y$10$rFUDJNmBvrSGYAW.jt802OCPv6qrhB4sq1Q/5dyhefrBXURYE8t5u', 'admin@admin', '5181384483318', 0, 'admin'),
-(9, 'irfan', '$2y$10$qkXyYuvrQ29iUHUIQn89nOd/9w8s0sTSE13i3MNRlsSvBx0MPrauy', 'aku@gmail.com', '081273044163', 0, 'user'),
-(10, 'ika', '$2y$10$10zsYXpMYO6KBJVqk8/R3.WnsWp7O0EW8e0GEOqPInHGE5HFS5pAe', 'email@simply.lovey', NULL, 0, 'user');
-
+(1, 'admin', '$2y$10$rFUDJNmBvrSGYAW.jt802OCPv6qrhB4sq1Q/5dyhefrBXURYE8t5u', 'admin@admin', '5181384483318', 0, 'admin');
 -- --------------------------------------------------------
 
 --
