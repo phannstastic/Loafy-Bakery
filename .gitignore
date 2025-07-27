@@ -1,22 +1,9 @@
-# Konfigurasi Sensitif
-# JANGAN PERNAH upload file ini ke repository publik!
 config.php
-
-# Folder Vendor (jika menggunakan Composer)
-/vendor/
-
-# File environment (praktik umum)
 .env
-
-# Log dan file sementara
 *.log
 /tmp/
-
-# File sistem operasi
 .DS_Store
 Thumbs.db
-
-# File IDE/editor
 .idea/
 .vscode/
 *.swp
